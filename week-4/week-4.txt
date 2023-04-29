@@ -1,0 +1,9 @@
+-----------------------Week_4 Animation ------------------------
+ 
+ In Animation I read Implicit/Explicit Animation.
+ I read Animation Controller that is a object to create animation in flutter.It takes double value from 0.0 to 1.0.
+ In animation double value 0.0 = 0 degree, 0.5 = 180 degree, 1.0 = 360 degree.
+ We also use Transform Widget that is used to rotate a widget.
+ I also read about Tween<double>.that has two parameters begin and end.
+
+
